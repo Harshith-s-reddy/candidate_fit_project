@@ -131,8 +131,21 @@ print(predict("Experienced Python ML developer",
 
 <h2>|Author Notes|</h2>
 <p>
-This project is designed to complete a task
+This project is designed to complete a task assigned by a employeer
 </p>
+<P>This project is at mid stage of development</P>
+<hr>
+<foot><h2>AUTHOR</h2><br>Harshith S</foot>
+
+
+
+
+
+
+
+
+
+
 
   
 
