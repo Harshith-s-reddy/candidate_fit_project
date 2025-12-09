@@ -1,3 +1,283 @@
 candidate_profile,job_description,fit_score
 "Python developer with ML experience","Looking for ML engineer skilled in Python",90
 "Fresher with basic coding","Senior data scientist with 5 years experience",30
+"Python, machine learning, pandas, numpy","Hiring Python ML Engineer for AI model development",88
+"Java, Spring Boot, REST APIs, MySQL","Backend Java Developer needed for building REST microservices",92
+"React, JavaScript, HTML, CSS","Looking for React Developer to build modern UI",85
+"AWS, Docker, Kubernetes, CI/CD","Hiring DevOps Engineer for Cloud Infrastructure automation",93
+"Excel, SQL, Tableau","Business seeking Data Analyst for dashboard creation",78
+"Django, Flask, PostgreSQL","Python Backend Developer for web API development",84
+"Sales, lead generation, communication","Business Development Executive for IT sales",71
+"Recruitment, sourcing, interviewing","Hiring HR Recruiter for technical roles",81
+"C++, embedded systems, microcontrollers","Embedded Software Engineer needed for IoT firmware",89
+"Kotlin, Android Studio, Firebase","Android Developer for mobile e-commerce application",83
+"TensorFlow, PyTorch, deep learning","Research Engineer for AI model training",92
+"Linux, networking, scripting","System Administrator with Linux server experience",76
+"Photoshop, Illustrator, UI design","UI/UX Designer needed for mobile designs",80
+"Node.js, Express, MongoDB","Full Stack JavaScript developer for web apps",87
+"SQL, statistics, A/B testing","Hiring Data Scientist for product analytics",90
+"Customer support, CRM tools","Customer Support Associate for software product",66
+"Network security, firewalls, SIEM","Cybersecurity Analyst needed for threat monitoring",89
+"Power BI, Excel, data visualization","Business Intelligence Analyst needed",81
+"Golang, distributed systems","Go Backend Engineer needed",87
+"Rust, low-level programming","Systems Engineer with Rust expertise",91
+"Swift, Xcode, UIKit","iOS Developer for mobile app development",84
+"Figma, prototyping, wireframes","Hiring Product Designer for UX research",77
+"Agile, project tracking, Jira","Project Manager needed for sprint planning",82
+"Finance, accounting, GST","Looking for Accountant for invoice management",65
+"Supply chain management, logistics","Hiring Logistics Coordinator",73
+"Teaching, lesson planning","School seeking High School Teacher",69
+"Cooking, food preparation","Restaurant hiring Chef for Indian cuisine",74
+"Driving, navigation","Driver needed for cab service",63
+"Plumbing, drainage repair","Hiring Plumber for residential maintenance",68
+"Carpentry, wood cutting","Carpenter needed for furniture making",71
+"Electrician, wiring, circuit repair","Electrician needed for commercial building",75
+"Nursing, patient care","Looking for Nurse for hospital ICU department",82
+"Medicine consultation, diagnostics","Hiring Medical Doctor",94
+"Legal research, drafting","Law firm recruiting Junior Advocate",78
+"Digital marketing, SEO, ads","Digital Marketer needed for e-commerce website",80
+"Content writing, copywriting","Hiring Content Writer for blogs and articles",72
+"Video editing, Premiere Pro","Video Editor needed for YouTube production",79
+"Photography, lighting","Photographer needed for event coverage",71
+"Mechanical engineering, CAD","Hiring Mechanical Design Engineer",84
+"Civil engineering, site supervision","Site Engineer needed for real estate project",81
+"AutoCAD, Revit","Hiring Architect for 3D building planning",83
+"Warehouse management, inventory","Warehouse Manager needed",74
+"Banking, financial products","Hiring Bank Sales Officer",70
+"Customer handling, billing","Cashier needed for retail store",67
+"Pharmacy, prescriptions","Hiring Pharmacist for medical store",77
+"Fitness training, bodybuilding","Gym hiring Fitness Trainer",73
+"Music teaching, singing","Music Teacher needed",71
+"Sports coaching, cricket","Cricket Coach needed for academy",76
+"Python, SQL, data engineering","Data Engineer needed for ETL pipelines",88
+"Cloud security, IAM, compliance","Cloud Security Consultant needed",90
+"RPA, UiPath, automation","RPA Developer needed",86
+"SAP MM, procurement","SAP Consultant needed for manufacturing company",84
+"Salesforce CRM, automation","Salesforce Developer needed",85
+"Product strategy, analytics","Product Manager needed",83
+"Python, Airflow, Big Data","Data Pipeline Engineer needed",88
+"ETL, Informatica","ETL Developer needed",86
+"NLP, transformers, LLM","Hiring NLP Engineer for chatbot development",92
+"QA testing, Selenium, automation","QA Automation Tester needed",82
+"Manual testing, bug reporting","QA Manual Tester needed",71
+"Bootstrap, Tailwind, CSS","UI Developer needed",79
+"GraphQL, APIs, Fullstack","GraphQL Fullstack Engineer needed",86
+"Typescript, Next.js","Next.js Developer needed",84
+"3D modeling, Blender","3D Modeler needed for gaming studio",80
+"Unity, C#","Unity Game Developer needed",83
+"Unreal Engine, C++","Unreal Engine Developer needed",87
+"Machine operator, welding","Factory hiring Machine Operator",67
+"Tailoring, stitching","Tailor needed for boutique",69
+"Hair cutting, grooming","Salon hiring Hair Stylist",70
+"Childcare, babysitting","Babysitter needed",65
+"Python, openCV, computer vision","Computer Vision Engineer needed",89
+"PCB design, microcontrollers","Hardware Design Engineer needed",88
+"VLSI, Verilog","VLSI Engineer needed",90
+"Solidity, blockchain","Blockchain Developer needed",91
+"Crypto trading analysis","Crypto Analyst needed",78
+"E-commerce management, Amazon Seller Central","Amazon Store Manager needed",79
+"HR payroll, attendance","Payroll Executive needed",74
+"Customer retention, sales","Customer Relationship Manager needed",78
+"Flutter, Dart","Flutter Developer needed",84
+"React Native, mobile apps","React Native Developer needed",82
+"IT support, troubleshooting","IT Support Engineer needed",75
+"Recruitment metrics, HR analytics","HR Analyst needed",77
+"Logistics planning, vendor coordination","Vendor Manager needed",73
+"Food packaging, handling","Food Packing Worker needed",66
+"Driving truck, heavy vehicles","Truck Driver needed",68
+"Social media handling","Social Media Manager needed",79
+"Event management, coordination","Event Coordinator needed",76
+"Painting, house interiors","Painter needed for apartments",69
+"Construction labor, masonry","Construction Labor needed",65
+"Python, FastAPI, backend systems","Python API Developer needed",87
+"Scala, Spark, Hadoop","Big Data Engineer needed",88
+"Technical support, troubleshooting","Technical Support Specialist needed",72
+"Data cleaning, Excel, SQL","Junior Data Analyst needed",74
+"Public speaking, presentation","Corporate Trainer needed",78
+"AI prompt engineering, LLM testing","Prompt Engineer needed for Generative AI projects",88
+"Linux, Docker, Jenkins","DevOps Support Associate for build & release pipeline",78
+"Python, Data Wrangling, NumPy","Junior Data Engineer for ETL support",74
+"Java, Multithreading, Hibernate","Core Java Developer for banking domain",89
+"Android Kotlin, Retrofit, SQLite","Mobile Developer for fintech application",84
+"Deep learning, CNN, GANs","AI Scientist for image synthesis research",92
+"SOC monitoring, SIEM tools","Cybersecurity SOC Analyst required",87
+"Shell scripting, cron jobs","Linux Automation Engineer for server tasks",80
+"React, Redux, REST APIs","Frontend React Specialist for dashboard projects",86
+"Node.js, TypeORM, PostgreSQL","Backend Node Developer for SaaS platform",88
+"Power BI, Excel Macros","BI Analyst for performance metrics dashboards",81
+"SAP FICO, SAP MM","SAP Functional Consultant for ERP support",85
+"Business law, document drafting","Legal Associate for contract writing",73
+"CRM calling, lead pitching","Telecaller for real estate sales",68
+"Field sales, product demos","Sales Representative for home appliances",66
+"Hospital patient care","Staff Nurse needed for surgical ward",83
+"Medical imaging, radiology scanning","Radiology Technician needed",80
+"Lab testing, sampling","Medical Lab Technician required",79
+"ICU management, clinical assistance","Critical Care Nurse required",85
+"Therapies, daycare assistance","Physiotherapy Assistant needed",76
+"OT patient management","Operation Theatre Nurse required",84
+"Event management, public speaking","Event Host / Anchor needed",80
+"Voice over, narration","Voice Over Artist needed",78
+"Social media ads, reels strategy","Instagram Growth Marketer required",82
+"Video scripting, filming","Short video Content Creator needed",76
+"Interior décor, home styling","Interior Designer needed for modular homes",82
+"Tally, invoice processing","Junior Accountant for billing department",72
+"Data entry, fast typing","Data Entry Operator required",65
+"Courier delivery, navigation","Delivery Boy required for parcel service",63
+"Cloth ironing, steaming","Laundry Worker needed",66
+"Shoe polishing, customer interaction","Shoe Care Attendant required",64
+"Photography lighting, DSLR","Wedding Photographer needed",78
+"Drone flying, aerial photography","Drone Cameraman required",81
+"Billing, POS machine operation","Retail Billing Associate required",67
+"Food serving, housekeeping","Hotel Steward required",69
+"Menu preparation, cutting vegetables","Kitchen Helper required",65
+"Pastry making, baking","Pastry Chef required",76
+"Breakfast cooking, dosa making","South Indian Cook required",75
+"Diet food cooking, meal prep","Nutrition Chef required",78
+"Gym membership sales","Fitness Sales Executive required",70
+"Body massage, spa therapy","Spa Therapist required",74
+"Swimming coaching, CPR","Swimming Coach needed",83
+"Football coaching, strength training","Football Coach required",82
+"Taekwondo, martial arts","Martial Arts Trainer required",81
+"Singing training, vocal scale","Vocal Music Trainer required",80
+"Violin, keyboard teaching","Instrumental Music Teacher required",77
+"Hair styling, beard grooming","Barber needed for premium salon",72
+"Mehndi design, bridal makeup","Bridal Makeup Artist required",78
+"Skin treatment, facials","Beautician required",75
+"Skin care consulting, product sales","Skin Care Consultant required",77
+"Customer greetings, store support","Store Helper required",66
+"Bicycle repair, puncture fix","Cycle Mechanic required",65
+"Two wheeler repair, oil change","Bike Mechanic required",70
+"Car servicing, brake fitting","Car Mechanic required",76
+"Car wash, detailing","Car Wash Technician required",68
+"Airport passport checking","Immigration Officer required",84
+"Baggage handling, boarding","Airport Ground Staff needed",76
+"Cabin safety, onboard service","Cabin Crew Air Hostess required",89
+"Pilot training, aircraft controls","Trainee Commercial Pilot needed",91
+"Ship navigation, maritime safety","Marine Officer needed",87
+"Forklift operation, warehouse","Forklift Operator required",72
+"Packaging, labeling","Packaging Staff required",67
+"Machine supervision, metal cutting","CNC Machine Operator required",78
+"Quality check, inspection","Quality Inspector for manufacturing",75
+"Electrical panel wiring","Electrical Technician required",76
+"Soldering, PCB assembly","Electronics Assembly Worker required",73
+"Office administration, filing","Office Admin Executive required",71
+"Reception, guest welcoming","Receptionist for hotel lobby",72
+"Ticket booking, tour planning","Travel Consultant required",78
+"Flight ticket reservation","Airline Reservation Agent required",77
+"AutoCAD, blueprint reading","Draftsman required",80
+"Bricklaying, concrete mixing","Mason required",68
+"Plastering, slope correction","Building Plaster Worker required",69
+"Road construction, bitumen laying","Road Construction Worker required",70
+"Painting bridges, steel structures","Industrial Painter required",74
+"Pipeline welding, gas cutting","Welding Technician needed",78
+"Inventory management, barcode scanning","Warehouse Inventory Executive required",74
+"Freight planning, customs clearance","Freight Coordinator needed",75
+"Interior cleaning, sanitization","Housekeeping Staff required",65
+"Pest control spraying","Pest Control Worker required",66
+"Gardening, plant care","Gardener required",70
+"Carpet cleaning, vacuuming","Carpet Cleaning Technician required",67
+"Dog walking, pet feeding","Pet Care Worker required",65
+"Horse riding guidance","Horse Riding Instructor required",80
+"Cattle handling, dairy work","Dairy Farm Worker required",67
+"Crop harvesting, irrigation","Farm Labor required",66
+"Organic farming, soil care","Organic Farm Assistant required",72
+"Seed distribution, fertilizer mixing","Agricultural Field Assistant required",71
+"Tractor driving, land levelling","Tractor Operator required",68
+"Greenhouse maintenance","Greenhouse Technician required",73
+"Water testing, pool maintenance","Swimming Pool Maintenance Worker required",72
+"Pipeline inspection, drainage cleaning","Drainage Maintenance Worker required",67
+"Road traffic control, barricading","Traffic Marshall required",68
+"Security guarding, CCTV monitoring","Security Guard required",72
+"Linux, Docker, Jenkins","DevOps Support Associate for build & release pipeline",78
+"Python, Data Wrangling, NumPy","Junior Data Engineer for ETL support",74
+"Java, Multithreading, Hibernate","Core Java Developer for banking domain",89
+"Android Kotlin, Retrofit, SQLite","Mobile Developer for fintech application",84
+"Deep learning, CNN, GANs","AI Scientist for image synthesis research",92
+"SOC monitoring, SIEM tools","Cybersecurity SOC Analyst required",87
+"Shell scripting, cron jobs","Linux Automation Engineer for server tasks",80
+"React, Redux, REST APIs","Frontend React Specialist for dashboard projects",86
+"Node.js, TypeORM, PostgreSQL","Backend Node Developer for SaaS platform",88
+"Power BI, Excel Macros","BI Analyst for performance metrics dashboards",81
+"SAP FICO, SAP MM","SAP Functional Consultant for ERP support",85
+"Business law, document drafting","Legal Associate for contract writing",73
+"CRM calling, lead pitching","Telecaller for real estate sales",68
+"Field sales, product demos","Sales Representative for home appliances",66
+"Hospital patient care","Staff Nurse needed for surgical ward",83
+"Medical imaging, radiology scanning","Radiology Technician needed",80
+"Lab testing, sampling","Medical Lab Technician required",79
+"ICU management, clinical assistance","Critical Care Nurse required",85
+"Therapies, daycare assistance","Physiotherapy Assistant needed",76
+"OT patient management","Operation Theatre Nurse required",84
+"Event management, public speaking","Event Host / Anchor needed",80
+"Voice over, narration","Voice Over Artist needed",78
+"Social media ads, reels strategy","Instagram Growth Marketer required",82
+"Video scripting, filming","Short video Content Creator needed",76
+"Interior décor, home styling","Interior Designer needed for modular homes",82
+"Tally, invoice processing","Junior Accountant for billing department",72
+"Data entry, fast typing","Data Entry Operator required",65
+"Courier delivery, navigation","Delivery Boy required for parcel service",63
+"Cloth ironing, steaming","Laundry Worker needed",66
+"Shoe polishing, customer interaction","Shoe Care Attendant required",64
+"Photography lighting, DSLR","Wedding Photographer needed",78
+"Drone flying, aerial photography","Drone Cameraman required",81
+"Billing, POS machine operation","Retail Billing Associate required",67
+"Food serving, housekeeping","Hotel Steward required",69
+"Menu preparation, cutting vegetables","Kitchen Helper required",65
+"Pastry making, baking","Pastry Chef required",76
+"Breakfast cooking, dosa making","South Indian Cook required",75
+"Diet food cooking, meal prep","Nutrition Chef required",78
+"Gym membership sales","Fitness Sales Executive required",70
+"Body massage, spa therapy","Spa Therapist required",74
+"Swimming coaching, CPR","Swimming Coach needed",83
+"Football coaching, strength training","Football Coach required",82
+"Taekwondo, martial arts","Martial Arts Trainer required",81
+"Singing training, vocal scale","Vocal Music Trainer required",80
+"Violin, keyboard teaching","Instrumental Music Teacher required",77
+"Hair styling, beard grooming","Barber needed for premium salon",72
+"Mehndi design, bridal makeup","Bridal Makeup Artist required",78
+"Skin treatment, facials","Beautician required",75
+"Skin care consulting, product sales","Skin Care Consultant required",77
+"Customer greetings, store support","Store Helper required",66
+"Bicycle repair, puncture fix","Cycle Mechanic required",65
+"Two wheeler repair, oil change","Bike Mechanic required",70
+"Car servicing, brake fitting","Car Mechanic required",76
+"Car wash, detailing","Car Wash Technician required",68
+"Airport passport checking","Immigration Officer required",84
+"Baggage handling, boarding","Airport Ground Staff needed",76
+"Cabin safety, onboard service","Cabin Crew Air Hostess required",89
+"Pilot training, aircraft controls","Trainee Commercial Pilot needed",91
+"Ship navigation, maritime safety","Marine Officer needed",87
+"Forklift operation, warehouse","Forklift Operator required",72
+"Packaging, labeling","Packaging Staff required",67
+"Machine supervision, metal cutting","CNC Machine Operator required",78
+"Quality check, inspection","Quality Inspector for manufacturing",75
+"Electrical panel wiring","Electrical Technician required",76
+"Soldering, PCB assembly","Electronics Assembly Worker required",73
+"Office administration, filing","Office Admin Executive required",71
+"Reception, guest welcoming","Receptionist for hotel lobby",72
+"Ticket booking, tour planning","Travel Consultant required",78
+"Flight ticket reservation","Airline Reservation Agent required",77
+"AutoCAD, blueprint reading","Draftsman required",80
+"Bricklaying, concrete mixing","Mason required",68
+"Plastering, slope correction","Building Plaster Worker required",69
+"Road construction, bitumen laying","Road Construction Worker required",70
+"Painting bridges, steel structures","Industrial Painter required",74
+"Pipeline welding, gas cutting","Welding Technician needed",78
+"Inventory management, barcode scanning","Warehouse Inventory Executive required",74
+"Freight planning, customs clearance","Freight Coordinator needed",75
+"Interior cleaning, sanitization","Housekeeping Staff required",65
+"Pest control spraying","Pest Control Worker required",66
+"Gardening, plant care","Gardener required",70
+"Carpet cleaning, vacuuming","Carpet Cleaning Technician required",67
+"Dog walking, pet feeding","Pet Care Worker required",65
+"Horse riding guidance","Horse Riding Instructor required",80
+"Cattle handling, dairy work","Dairy Farm Worker required",67
+"Crop harvesting, irrigation","Farm Labor required",66
+"Organic farming, soil care","Organic Farm Assistant required",72
+"Seed distribution, fertilizer mixing","Agricultural Field Assistant required",71
+"Tractor driving, land levelling","Tractor Operator required",68
+"Greenhouse maintenance","Greenhouse Technician required",73
+"Water testing, pool maintenance","Swimming Pool Maintenance Worker required",72
+"Pipeline inspection, drainage cleaning","Drainage Maintenance Worker required",67
+"Road traffic control, barricading","Traffic Marshall required",68
+"Security guarding, CCTV monitoring","Security Guard required",72
