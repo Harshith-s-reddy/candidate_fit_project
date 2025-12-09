@@ -1,5 +1,11 @@
 # Predict Candidate Fit Score
 # Analyzation-of-candidate-profilies-
+<span style="font-size:38px; font-weight:700;">🧠 Candidate Fit Score
+
+<span style="font-size:20px; font-weight:400;">AI-Powered Candidate–Job Matching System</span></span>
+
+A smart machine learning solution that evaluates how well a candidate matches a job description and produces a Fit Score (0–100%).
+Built for HR teams, recruiters, and talent platforms.
 <br>
 #Built by Harshith S — Python & Machine Learning Developer(FRESHER)
 <br>
