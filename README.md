@@ -14,14 +14,14 @@ Useful for HR teams, recruiting platforms, resume screening tools, and automatio
 
 <hr>
 
-<h2>✨ Features</h2>
+<h2> Features</h2>
 <ul>
   <li> Intelligent text processing for candidate & job descriptions</li>
-  <li> TF-IDF feature extraction</li>
+  <li> Using python lib</li>
   <li> Machine learning model using scikit-learn</li>
   <li> Generates match scores between 0 and 100</li>
-  <li> Simple, clean, and extendable codebase</li>
-  <li> Works on macOS, Windows, and Linux</li>
+  <li> Simple,easy to adapt</li>
+ 
 </ul>
 
 <hr>
@@ -33,12 +33,12 @@ Useful for HR teams, recruiting platforms, resume screening tools, and automatio
   <li><strong>Pandas</strong></li>
   <li><strong>NumPy</strong></li>
   <li><strong>joblib</strong></li>
-  <li><strong>TF-IDF Vectorizer</strong></li>
+
 </ul>
 
 <hr>
 
-<h2>📁 Project Structure</h2>
+<h2> Project Structure</h2>
 
 <pre>
 candidate_fit_project/
@@ -51,7 +51,7 @@ candidate_fit_project/
 
 <hr>
 
-<h2>🚀 How It Works</h2>
+<h2> How It Works</h2>
 
 <h3>1️⃣ Data Processing</h3>
 <p>Loads and cleans candidate & job description text.</p>
@@ -67,7 +67,7 @@ candidate_fit_project/
 
 <hr>
 
-<h2>💻 Setup & Run Instructions (macOS / Windows / Linux)</h2>
+<h2>Setup & Run Instructions (macOS / Windows / Linux)</h2>
 
 <h3>1. Extract Project</h3>
 <p>Unzip the downloaded folder.</p>
