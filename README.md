@@ -81,13 +81,13 @@ source venv/bin/activate
   #runs in all os.
 </pre>
 
-<h3>4. Install Dependencies</h3>
+<h3>Install Dependencies</h3>
 
 <pre>
 pip install pandas scikit-learn joblib
 </pre>
 
-<h3>5. Train the Model</h3>
+<h3> Train the Model</h3>
 
 <pre>
 python3 main.py
@@ -95,9 +95,50 @@ python3 main.py
 
 <p><strong>Expected Output:</strong> <code>Model trained.</code></p>
 
-<h3>6. Run a Prediction</h3>
+<h3>Run a Prediction</h3>
 
 <pre>
+  Then inside Python:
+
+<pre>
+from main import predict
+print(predict("Experienced Python ML developer",
+              "Looking for Python ML engineer"))
+</pre>
+
+<p><strong>Example Output:</strong> <code>87.21</code></p>
+
+<hr>
+
+<h2>📊 Dataset Information</h2>
+
+<p><code>sample_data.csv</code> contains:</p>
+<ul>
+  <li>candidate_profile</li>
+  <li>job_description</li>
+  <li>fit_score</li>
+</ul>
+
+<p>You can replace this dataset with real-world data for improved accuracy.</p>
+
+<hr>
+
+<h2>🚧 Future Enhancements</h2>
+<ul>
+  <li>⚡ REST API (FastAPI/Flask)</li>
+  <li>🎨 Streamlit UI</li>
+  <li>🧠 Use BERT or advanced NLP models</li>
+  <li>📌 Explainable matching factors</li>
+  <li>📥 Resume parsing support</li>
+</ul>
+
+<hr>
+
+<h2>📌 Author Notes</h2>
+<p>
+This project is designed to be simple, scalable, and easy to integrate into recruitment tools or machine learning pipelines.
+</p>
+
   
 
 
