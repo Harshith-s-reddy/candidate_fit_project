@@ -1,6 +1,8 @@
 # Predict Candidate Fit Score
 # Analyzation-of-candidate-profilies-
+<br>
 #Built by Harshith S — Python & Machine Learning Developer(FRESHER)
+<br>
 Creating a Python-based solution that analyzes candidate profiles and job descriptions to generate a compatibility score (0-100%).
 <br>
 #...AI-Based Candidate Fit Score — Resume vs Job Role Matching....
