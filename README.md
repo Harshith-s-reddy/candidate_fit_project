@@ -20,10 +20,15 @@ This helps "HR" to shortlist the resumes.And also help candidates to understand 
 PROJECT STRUCTURE
 <br>
 candidate_fit_project/
+<br>
 │── main.py
+<br>
 │── sample_data.csv
+<br>
 │── model.pkl (after training)
+<br>
 │── vectorizer.pkl (after training)
+<br>
 │── README.md
 <br>
 How It Works
