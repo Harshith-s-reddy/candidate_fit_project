@@ -135,7 +135,7 @@ This project is designed to complete a task assigned by a employeer
 </p>
 <P>This project is at mid stage of development</P>
 <hr>
-<foot><h2>AUTHOR</h2><br>Harshith S</foot>
+<foot><h2>AUTHOR</h2><br>Harshith S<br>arshith.s.reddy2004@gmail.com</foot>
 
 
 
