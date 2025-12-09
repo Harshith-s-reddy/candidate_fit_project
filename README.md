@@ -5,7 +5,7 @@ Creating a Python-based solution that analyzes candidate profiles and job descri
 #...AI-Based Candidate Fit Score — Resume vs Job Role Matching....
 Built by Harshith S — Python & Machine Learning Developer(FRESHER)
 <br>
-Why I built this project?<br>
+Why I built this project?<br><br>
 A Recruiter asked me to buil a Predict Candidate Fit Score model which helps recruiter.
 Recruiters spend hours reading resumes. 
 Candidates apply to jobs even if they don’t match the requirements.Both sides lose time.
