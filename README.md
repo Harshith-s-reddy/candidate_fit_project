@@ -1,14 +1,8 @@
 # Predict Candidate Fit Score
 # Analyzation-of-candidate-profilies-
-<span style="font-size:38px; font-weight:700;">🧠 Candidate Fit Score
+<span style="font-size:50px; font-weight:700;">🧠 Candidate Fit Score
 
-<span style="font-size:20px; font-weight:400;">AI-Powered Candidate–Job Matching System</span></span>
-──────────────────────────────────────────────────────────────
-          Candidate Fit Score (Machine Learning Model)
-────────────────────────────────────────────────────────────────
-A lightweight ML system that predicts how well a candidate
-matches a job description and outputs a score from 0 to 100.
-──────────────────────────────────────────────────────────────
+<span style="font-size:35px; font-weight:400;"> Candidate–Job Matching System</span></span>
 
 
 A smart machine learning solution that evaluates how well a candidate matches a job description and produces a Fit Score (0–100%).
