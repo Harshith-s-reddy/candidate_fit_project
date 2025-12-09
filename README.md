@@ -107,7 +107,7 @@ print(predict("Experienced Python ML developer",
 
 <hr>
 
-<h2>📊 Dataset Information</h2>
+<h2>Data_baseInformation</h2>
 
 <p><code>sample_data.csv</code> contains:</p>
 <ul>
@@ -116,24 +116,22 @@ print(predict("Experienced Python ML developer",
   <li>fit_score</li>
 </ul>
 
-<p>You can replace this dataset with real-world data for improved accuracy.</p>
-
 <hr>
 
-<h2>🚧 Future Enhancements</h2>
+<h2>Future Enhancements</h2>
 <ul>
-  <li>⚡ REST API (FastAPI/Flask)</li>
-  <li>🎨 Streamlit UI</li>
-  <li>🧠 Use BERT or advanced NLP models</li>
-  <li>📌 Explainable matching factors</li>
-  <li>📥 Resume parsing support</li>
+  <li>REST API </li>
+  <li>Streamlit UI</li>
+  <li>Use BERT or advanced NLP models</li>
+  <li>matching factors</li>
+  <li>Resume parsing support</li>
 </ul>
 
 <hr>
 
-<h2>📌 Author Notes</h2>
+<h2>|Author Notes|</h2>
 <p>
-This project is designed to be simple, scalable, and easy to integrate into recruitment tools or machine learning pipelines.
+This project is designed to complete a task
 </p>
 
   
