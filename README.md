@@ -17,7 +17,7 @@ Takes Resume text.Takes job description.uses NLP & Machine learing to understand
 <br>
 This helps "HR" to shortlist the resumes.And also help candidates to understand where they stand.
 <br>
-PROJECT STRUCTURE
+PROJECT STRUCTURE  
 <br>
 candidate_fit_project/
 <br>
@@ -34,9 +34,11 @@ candidate_fit_project/
 How It Works
 <br>
 Data Processing
+<br>
 Loads example job description & candidate text.
 <br>
 Feature Engineering
+<br>
 Converts text into numeric features using TF-IDF.
 <br>
 Model Training
