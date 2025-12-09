@@ -130,9 +130,10 @@ print(predict("Experienced Python ML developer",
 <p>
 This project is designed to complete a task assigned by a employeer
 </p>
+<p>Note : This is a mini project based on developing a AI based solution for predicting a candidate fitness score
 <P>This project is at mid stage of development</P>
 <hr>
-<foot><h2>AUTHOR</h2><br>Harshith S<br>arshith.s.reddy2004@gmail.com</foot>
+<foot><h2>AUTHOR</h2><br>Harshith S<br>harshith.s.reddy2004@gmail.com</foot>
 
 
 
