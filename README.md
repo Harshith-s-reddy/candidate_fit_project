@@ -26,7 +26,7 @@ Useful for HR teams, recruiting platforms, resume screening tools, and automatio
 
 <hr>
 
-<h2>🛠 Technologies Used</h2>
+<h2>Technologies Used</h2>
 <ul>
   <li><strong>Python</strong></li>
   <li><strong>scikit-learn</strong></li>
@@ -69,17 +69,16 @@ candidate_fit_project/
 
 <h2>Setup & Run Instructions (macOS / Windows / Linux)</h2>
 
-<h3>1. Extract Project</h3>
-<p>Unzip the downloaded folder.</p>
 
-<h3>2. Open in VS Code</h3>
+<h3> Open in VS Code</h3>
 <p>File → Open Folder → <em>candidate_fit_project</em></p>
 
-<h3>3. Create Virtual Environment</h3>
+<h3>create Virtual Environment</h3>
 
 <pre>
 python3 -m venv venv
-source venv/bin/activate    # macOS/Linux
+source venv/bin/activate   
+  #runs in all os.
 </pre>
 
 <h3>4. Install Dependencies</h3>
@@ -99,6 +98,7 @@ python3 main.py
 <h3>6. Run a Prediction</h3>
 
 <pre>
+  
 
 
 
