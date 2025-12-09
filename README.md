@@ -4,8 +4,8 @@
 
 <span style="font-size:35px; font-weight:400;"> Candidate–Job Matching System</span></span>
 
-<h1 align="center">🧠 Candidate Fit Score</h1>
-<p align="center"><strong>AI-Powered Candidate–Job Compatibility Predictor</strong></p>
+<h1 align="center"> Candidate Fit Score</h1>
+<p align="center"><strong>AI Candidate–Job Predictor</strong></p>
 
 <p>
 A lightweight machine learning system that analyzes a candidate’s profile and a job description to generate a <strong>Fit Score (0–100%)</strong>.  
