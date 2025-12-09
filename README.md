@@ -98,9 +98,6 @@ python3 main.py
 <h3>Run a Prediction</h3>
 
 <pre>
-  Then inside Python:
-
-<pre>
 from main import predict
 print(predict("Experienced Python ML developer",
               "Looking for Python ML engineer"))
